@@ -1,0 +1,2 @@
+# BaseOCProject
+Basic project structure
